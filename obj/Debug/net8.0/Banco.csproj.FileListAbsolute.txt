@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Banco\obj\Debug\net8.0\ref\Banco.dll
